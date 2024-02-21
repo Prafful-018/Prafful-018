@@ -1,3 +1,4 @@
+![logo](https://wallpaperaccess.com/full/1805444.jpg)
 <h1 align="center">Hi 👋, I'm Prafful Mishra</h1>
 <h3 align="center">A passionate Software engineer from India</h3>
 
@@ -15,7 +16,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/prafful mishra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prafful mishra" height="30" width="40" /></a>
 <a href="https://fb.com/prafful mishra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="prafful mishra" height="30" width="40" /></a>
-<a href="https://instagram.com/aimhigh018" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aimhigh018" height="30" width="40" /></a>
+<a href="https://instagram.com/aimhigh_018" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aimhigh_018" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -24,4 +25,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prafful-018&show_icons=true&locale=en" alt="prafful-018" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prafful-018&" alt="prafful-018" /></p>
-
