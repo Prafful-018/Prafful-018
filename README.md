@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prafful-018&label=Profile%20views&color=0e75b6&style=flat" alt="prafful-018" /> </p>
 
-- 🌱 I’m currently learning **Cloud,linux,devops**
+- 🌱 I’m currently working on **Cloud,linux,devops**
 
 - 💬 Ask me about **cloud**
 
