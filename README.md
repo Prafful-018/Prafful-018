@@ -1,4 +1,3 @@
-![logo](https://wallpaperaccess.com/full/1805444.jpg)
 <h1 align="center">Hi 👋, I'm Prafful Mishra</h1>
 <h3 align="center">A passionate Software engineer from India</h3>
 
